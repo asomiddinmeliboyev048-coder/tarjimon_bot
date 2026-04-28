@@ -1,0 +1,1877 @@
+2026-04-26 00:36:29 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 00:36:30 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 00:36:30 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 00:36:30 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 00:36:45 - tarjimon_bot - INFO - User 7171330738: start_command - username: asomiddinmeliboyev, name: Meliboyev
+2026-04-26 00:36:45 - tarjimon_bot - INFO - User 7171330738: admin_access - bypassed subscription check
+2026-04-26 00:36:48 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 00:36:52 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 00:36:54 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 00:36:58 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 00:37:00 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=6B1B5E02F5CC15DBA43389BA5463CD2EDC6591DA81FB46CF72BDF49A3931D944&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=c1f3811d5e4d47b49a9a66b70476f0b6'
+2026-04-26 00:37:00 - tarjimon_bot - INFO - Voice FAILED: User 7171330738 [en]
+2026-04-26 00:37:00 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: Voice file not generated
+2026-04-26 00:37:36 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 00:37:46 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: uz
+2026-04-26 00:37:46 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→uz]
+2026-04-26 00:37:48 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-26 00:37:50 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=6B1B5E02F5CC15DBA43389BA5463CD2EDC6591DA81FB46CF72BDF49A3931D944&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=18d933eba4684728bbbbce9837728a7c'
+2026-04-26 00:37:50 - tarjimon_bot - INFO - Voice FAILED: User 7171330738 [uz]
+2026-04-26 00:37:50 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: Voice file not generated
+2026-04-26 00:41:12 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ru
+2026-04-26 00:41:20 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ru
+2026-04-26 00:41:23 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ru]
+2026-04-26 00:41:31 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ru
+2026-04-26 00:41:34 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=27ECEF66FBFF05CD80E70E2B900E28E06ADC81724151D4B68D1A26719BF64C29&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=aaca9d723cda4a1fa8ccf1346052fd66'
+2026-04-26 00:41:34 - tarjimon_bot - INFO - Voice FAILED: User 7171330738 [ru]
+2026-04-26 00:41:34 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: Voice file not generated
+2026-04-26 01:00:39 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 01:00:48 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 01:00:49 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 01:00:55 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 01:00:57 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=E663EAC64F5E5E60EB16A22D2CA8D2E6424ECB1D0F161334E4AC4138D0678CDA&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=0524cf3fd09e4b4993983813a06adc7c'
+2026-04-26 01:00:57 - tarjimon_bot - INFO - Voice FAILED: User 7171330738 [en]
+2026-04-26 01:00:57 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: Voice file not generated
+2026-04-26 01:07:21 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 01:07:33 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 01:07:36 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 01:07:49 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 01:07:51 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 01:08:24 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 01:08:27 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 01:08:42 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 01:08:45 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 01:09:00 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 01:09:02 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 01:09:14 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 01:09:17 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 01:10:51 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 01:10:51 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 01:10:51 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 01:10:51 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 01:11:08 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 01:11:08 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 01:11:08 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 01:11:09 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 01:11:38 - tarjimon_bot - INFO - User 7171330738: start_command - username: asomiddinmeliboyev, name: Meliboyev
+2026-04-26 01:11:38 - tarjimon_bot - INFO - User 7171330738: admin_access - bypassed subscription check
+2026-04-26 01:11:43 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 01:11:49 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 01:11:51 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 01:11:54 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 01:11:54 - tarjimon_bot - INFO - Voice SUCCESS: User 7171330738 [en]
+2026-04-26 01:11:56 - tarjimon_bot - INFO - Voice SUCCESS: User 7171330738 [en]
+2026-04-26 01:11:57 - tarjimon_bot - INFO - Voice SUCCESS: User 7171330738 [en]
+2026-04-26 01:11:59 - tarjimon_bot - ERROR - User 7171330738: Voice generation failed after trying all fallbacks. Last error: None
+2026-04-26 01:11:59 - tarjimon_bot - INFO - Voice FAILED: User 7171330738 [en]
+2026-04-26 01:11:59 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: Voice file not generated
+2026-04-26 12:10:43 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 12:10:43 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 12:10:43 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 12:10:43 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 12:11:08 - tarjimon_bot - INFO - User 8353627615: start_command - username: None, name: Хилола
+2026-04-26 12:11:08 - tarjimon_bot - INFO - User 8353627615: subscription_check - subscribed
+2026-04-26 12:11:08 - tarjimon_bot - INFO - User 8353627615: subscription_ok - showing language selection
+2026-04-26 12:11:11 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: en
+2026-04-26 12:11:38 - tarjimon_bot - INFO - User 8353627615: subscription_check - not_subscribed (status: left)
+2026-04-26 12:11:45 - tarjimon_bot - INFO - User 8353627615: start_command - username: None, name: Хилола
+2026-04-26 12:11:45 - tarjimon_bot - INFO - User 8353627615: subscription_check - not_subscribed (status: left)
+2026-04-26 12:11:45 - tarjimon_bot - INFO - User 8353627615: subscription_required - showing subscription prompt
+2026-04-26 12:12:11 - tarjimon_bot - INFO - User 8353627615: start_command - username: None, name: Хилола
+2026-04-26 12:12:11 - tarjimon_bot - INFO - User 8353627615: subscription_check - not_subscribed (status: left)
+2026-04-26 12:12:11 - tarjimon_bot - INFO - User 8353627615: subscription_required - showing subscription prompt
+2026-04-26 12:12:27 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 12:12:27 - tarjimon_bot - INFO - User 8353627615: subscription_check - not_subscribed (status: left)
+2026-04-26 12:12:27 - tarjimon_bot - INFO - User 8353627615: subscription_check_failed - user not subscribed
+2026-04-26 12:14:59 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 12:14:59 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 12:14:59 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 12:14:59 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 12:15:17 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 12:15:17 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 12:15:17 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 12:15:18 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 12:15:24 - tarjimon_bot - INFO - User 8353627615: start_command - username: None, name: Хилола
+2026-04-26 12:15:25 - tarjimon_bot - INFO - User 8353627615: subscription_check - subscribed
+2026-04-26 12:15:25 - tarjimon_bot - INFO - User 8353627615: subscription_ok - showing language selection
+2026-04-26 12:15:31 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 12:15:32 - tarjimon_bot - INFO - User 8353627615: subscription_check - subscribed
+2026-04-26 12:15:32 - tarjimon_bot - INFO - User 8353627615: subscription_verified - proceeding to language selection
+2026-04-26 12:16:36 - tarjimon_bot - INFO - User 8353627615: start_command - username: None, name: Хилола
+2026-04-26 12:16:36 - tarjimon_bot - INFO - User 8353627615: subscription_check - subscribed
+2026-04-26 12:16:36 - tarjimon_bot - INFO - User 8353627615: subscription_ok - showing language selection
+2026-04-26 12:17:00 - tarjimon_bot - INFO - User 8353627615: start_command - username: None, name: Хилола
+2026-04-26 12:17:01 - tarjimon_bot - INFO - User 8353627615: subscription_check - not_subscribed (status: left)
+2026-04-26 12:17:01 - tarjimon_bot - INFO - User 8353627615: subscription_required - showing subscription prompt
+2026-04-26 12:17:41 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 12:17:41 - tarjimon_bot - INFO - User 8353627615: subscription_check - not_subscribed (status: left)
+2026-04-26 12:17:41 - tarjimon_bot - INFO - User 8353627615: subscription_check_failed - user not subscribed
+2026-04-26 12:17:44 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 12:17:44 - tarjimon_bot - INFO - User 8353627615: subscription_check - not_subscribed (status: left)
+2026-04-26 12:17:44 - tarjimon_bot - INFO - User 8353627615: subscription_check_failed - user not subscribed
+2026-04-26 12:17:45 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 12:17:45 - tarjimon_bot - INFO - User 8353627615: subscription_check - not_subscribed (status: left)
+2026-04-26 12:17:45 - tarjimon_bot - INFO - User 8353627615: subscription_check_failed - user not subscribed
+2026-04-26 12:18:07 - tarjimon_bot - INFO - User 7171330738: start_command - username: asomiddinmeliboyev, name: Meliboyev
+2026-04-26 12:18:07 - tarjimon_bot - INFO - User 7171330738: admin_access - bypassed subscription check
+2026-04-26 12:18:09 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 12:18:12 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 12:18:14 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 12:18:16 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 12:18:16 - tarjimon_bot - INFO - Voice SUCCESS: User 7171330738 [en]
+2026-04-26 12:18:20 - tarjimon_bot - INFO - Voice SUCCESS: User 7171330738 [en]
+2026-04-26 12:18:23 - tarjimon_bot - INFO - Voice SUCCESS: User 7171330738 [en]
+2026-04-26 12:18:27 - tarjimon_bot - ERROR - User 7171330738: Voice generation failed after trying all fallbacks. Last error: None
+2026-04-26 12:18:27 - tarjimon_bot - INFO - Voice FAILED: User 7171330738 [en]
+2026-04-26 12:18:27 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: Voice file not generated
+2026-04-26 12:18:53 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-26 12:18:58 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ko
+2026-04-26 12:18:59 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-26 12:19:02 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-26 12:19:03 - tarjimon_bot - INFO - Voice SUCCESS: User 7171330738 [ko]
+2026-04-26 12:19:04 - tarjimon_bot - INFO - Voice SUCCESS: User 7171330738 [ko]
+2026-04-26 12:19:06 - tarjimon_bot - INFO - Voice SUCCESS: User 7171330738 [ko]
+2026-04-26 12:19:08 - tarjimon_bot - INFO - Voice SUCCESS: User 7171330738 [ko]
+2026-04-26 12:19:10 - tarjimon_bot - ERROR - User 7171330738: Voice generation failed after trying all fallbacks. Last error: None
+2026-04-26 12:19:10 - tarjimon_bot - INFO - Voice FAILED: User 7171330738 [ko]
+2026-04-26 12:19:10 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: Voice file not generated
+2026-04-26 12:21:18 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 12:21:18 - tarjimon_bot - INFO - User 8353627615: subscription_check - not_subscribed (status: left)
+2026-04-26 12:21:18 - tarjimon_bot - INFO - User 8353627615: subscription_check_failed - user not subscribed
+2026-04-26 12:29:45 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 12:29:45 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 12:29:45 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 12:29:45 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 12:29:56 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 12:29:57 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 12:29:57 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 12:29:57 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 12:30:20 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 12:30:20 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 12:30:20 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 12:30:20 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 12:30:31 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 12:30:32 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 12:30:32 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 12:30:32 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 12:30:52 - tarjimon_bot - INFO - User 8353627615: start_command - username: None, name: Хилола
+2026-04-26 12:30:53 - tarjimon_bot - INFO - User 8353627615: subscription_required - showing subscription prompt
+2026-04-26 12:30:55 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 12:30:55 - tarjimon_bot - INFO - User 8353627615: subscription_check_failed - user not subscribed
+2026-04-26 12:30:58 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 12:30:58 - tarjimon_bot - INFO - User 8353627615: subscription_check_failed - user not subscribed
+2026-04-26 12:31:00 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 12:31:00 - tarjimon_bot - INFO - User 8353627615: subscription_check_failed - user not subscribed
+2026-04-26 12:31:04 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 12:31:04 - tarjimon_bot - INFO - User 8353627615: subscription_check_failed - user not subscribed
+2026-04-26 12:31:23 - tarjimon_bot - INFO - User 7171330738: start_command - username: asomiddinmeliboyev, name: Meliboyev
+2026-04-26 12:31:23 - tarjimon_bot - INFO - User 7171330738: admin_access - bypassed subscription check
+2026-04-26 12:31:28 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 12:31:33 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 12:31:36 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 12:31:37 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 12:31:43 - tarjimon_bot - ERROR - User 7171330738: Voice generation failed after trying all fallbacks. Last error: None
+2026-04-26 12:31:43 - tarjimon_bot - INFO - Voice FAILED: User 7171330738 [en]
+2026-04-26 12:31:43 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: Voice file not generated
+2026-04-26 12:36:24 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: tr
+2026-04-26 12:36:28 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: tr
+2026-04-26 12:36:30 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→tr]
+2026-04-26 12:36:36 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: tr
+2026-04-26 12:36:38 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→tr]
+2026-04-26 12:39:35 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 12:39:35 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 12:39:35 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 12:39:35 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 12:42:12 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 12:42:12 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 12:42:12 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 12:42:13 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 12:42:17 - tarjimon_bot - INFO - User 8353627615: start_command - username: None, name: Хилола
+2026-04-26 12:42:17 - tarjimon_bot - INFO - User 8353627615: subscription_required - showing subscription prompt
+2026-04-26 12:42:23 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 12:42:23 - tarjimon_bot - INFO - User 8353627615: subscription_check_failed - user not subscribed
+2026-04-26 12:42:52 - tarjimon_bot - INFO - User 7171330738: start_command - username: asomiddinmeliboyev, name: Meliboyev
+2026-04-26 12:42:52 - tarjimon_bot - INFO - User 7171330738: admin_access - bypassed subscription check
+2026-04-26 12:43:02 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ru
+2026-04-26 12:43:06 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ru
+2026-04-26 12:43:07 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ru]
+2026-04-26 12:43:09 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ru
+2026-04-26 12:43:18 - tarjimon_bot - ERROR - User 7171330738: Voice generation failed after trying all fallbacks. Last error: None
+2026-04-26 12:43:18 - tarjimon_bot - INFO - Voice FAILED: User 7171330738 [ru]
+2026-04-26 12:43:18 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: Voice file not generated
+2026-04-26 12:45:19 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-26 12:45:22 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ar
+2026-04-26 12:45:23 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 12:45:28 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 12:45:45 - tarjimon_bot - ERROR - User 7171330738: Voice generation failed after trying all fallbacks. Last error: None
+2026-04-26 12:45:45 - tarjimon_bot - INFO - Voice FAILED: User 7171330738 [ar]
+2026-04-26 12:45:45 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: Voice file not generated
+2026-04-26 12:51:25 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 12:51:25 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 12:51:25 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 12:51:25 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 12:51:39 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 12:51:39 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 12:51:39 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 12:51:40 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 12:51:56 - tarjimon_bot - INFO - User 7171330738: start_command - username: asomiddinmeliboyev, name: Meliboyev
+2026-04-26 12:51:56 - tarjimon_bot - INFO - User 7171330738: admin_access - bypassed subscription check
+2026-04-26 12:51:58 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 12:52:02 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 12:52:03 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 12:52:04 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 12:52:14 - tarjimon_bot - ERROR - User 7171330738: Voice generation failed after trying all fallbacks. Last error: None
+2026-04-26 12:52:14 - tarjimon_bot - INFO - Voice FAILED: User 7171330738 [en]
+2026-04-26 12:52:14 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: Voice file not generated
+2026-04-26 12:52:29 - tarjimon_bot - INFO - User 8353627615: start_command - username: None, name: Хилола
+2026-04-26 12:52:29 - tarjimon_bot - INFO - User 8353627615: subscription_required - showing subscription prompt
+2026-04-26 12:52:34 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 12:52:34 - tarjimon_bot - INFO - User 8353627615: subscription_check_failed - user not subscribed
+2026-04-26 12:54:09 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 12:54:09 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 12:54:09 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 12:54:09 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 12:54:22 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 12:54:23 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 12:54:23 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 12:54:23 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 12:54:34 - tarjimon_bot - INFO - User 8353627615: start_command - username: None, name: Хилола
+2026-04-26 12:54:34 - tarjimon_bot - INFO - User 8353627615: subscription_required - showing subscription prompt
+2026-04-26 12:54:38 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 12:54:38 - tarjimon_bot - INFO - User 8353627615: subscription_check_failed - user not subscribed
+2026-04-26 12:55:29 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 12:55:29 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 12:55:29 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 12:55:29 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 12:55:38 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 12:55:38 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 12:55:38 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 12:55:39 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 12:55:43 - tarjimon_bot - INFO - User 8353627615: start_command - username: None, name: Хилола
+2026-04-26 12:55:44 - tarjimon_bot - INFO - User 8353627615: subscription_required - showing subscription prompt
+2026-04-26 12:56:44 - tarjimon_bot - ERROR - User 7171330738: Translation not found in cache: ee9930564d69579b1952e2a9ae10cbaa
+2026-04-26 12:56:54 - tarjimon_bot - INFO - User 7171330738: start_command - username: asomiddinmeliboyev, name: Meliboyev
+2026-04-26 12:56:54 - tarjimon_bot - INFO - User 7171330738: admin_access - bypassed subscription check
+2026-04-26 12:56:57 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-26 12:56:59 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ar
+2026-04-26 12:57:00 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 12:57:02 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 12:57:11 - tarjimon_bot - ERROR - User 7171330738: Voice generation failed after trying all fallbacks. Last error: None
+2026-04-26 12:57:11 - tarjimon_bot - INFO - Voice FAILED: User 7171330738 [ar]
+2026-04-26 12:57:11 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: Voice file not generated
+2026-04-26 13:02:44 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 13:02:54 - tarjimon_bot - ERROR - User 7171330738: Voice generation failed after trying all fallbacks. Last error: None
+2026-04-26 13:02:54 - tarjimon_bot - INFO - Voice FAILED: User 7171330738 [ar]
+2026-04-26 13:02:54 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: Voice file not generated
+2026-04-26 13:03:52 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 13:03:52 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 13:03:52 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 13:03:52 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 13:04:05 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 13:04:06 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 13:04:06 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 13:04:06 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 13:05:07 - tarjimon_bot - INFO - User 8353627615: start_command - username: None, name: Хилола
+2026-04-26 13:05:07 - tarjimon_bot - INFO - User 8353627615: subscription_required - showing subscription prompt
+2026-04-26 13:05:16 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 13:05:16 - tarjimon_bot - INFO - User 8353627615: subscription_check_failed - user not subscribed
+2026-04-26 13:05:36 - tarjimon_bot - INFO - User 7171330738: start_command - username: asomiddinmeliboyev, name: Meliboyev
+2026-04-26 13:05:36 - tarjimon_bot - INFO - User 7171330738: admin_access - bypassed subscription check
+2026-04-26 13:05:39 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: tr
+2026-04-26 13:05:42 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: tr
+2026-04-26 13:05:43 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→tr]
+2026-04-26 13:05:44 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: tr
+2026-04-26 13:05:47 - tarjimon_bot - ERROR - Voice generation error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=BBDFB92AD99D7D5E093C8A195901DD8D48AE43961F12C950D8B57C0539E4FE0B&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=26f8a61516b541d791f329f3eab0a927'
+2026-04-26 13:05:47 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=BBDFB92AD99D7D5E093C8A195901DD8D48AE43961F12C950D8B57C0539E4FE0B&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=26f8a61516b541d791f329f3eab0a927'
+2026-04-26 13:12:43 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 13:12:43 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 13:12:43 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 13:12:43 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 13:22:53 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 13:22:53 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 13:22:53 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 13:22:54 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 13:41:42 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:41:44 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 13:41:51 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 13:41:52 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 13:41:56 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 13:41:56 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: generate_voice() takes 2 positional arguments but 4 were given
+2026-04-26 13:43:20 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:20 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:20 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:20 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:20 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:20 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:20 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:20 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:20 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:20 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:20 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:20 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:20 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:52 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:52 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:52 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 13:43:58 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: tr
+2026-04-26 13:44:01 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: tr
+2026-04-26 13:44:02 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→tr]
+2026-04-26 13:44:03 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: tr
+2026-04-26 13:44:03 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: generate_voice() takes 2 positional arguments but 4 were given
+2026-04-26 13:44:22 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 13:44:26 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 14:05:06 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: tr
+2026-04-26 14:05:06 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: generate_voice() takes 2 positional arguments but 4 were given
+2026-04-26 14:05:08 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: tr
+2026-04-26 14:05:08 - tarjimon_bot - ERROR - User 7171330738: Voice generation error: generate_voice() takes 2 positional arguments but 4 were given
+2026-04-26 14:08:28 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 14:09:09 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 14:09:12 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 14:13:40 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 14:13:40 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 14:13:40 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 14:13:40 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 14:14:59 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 14:14:59 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 14:14:59 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 14:15:00 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 14:15:30 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 14:15:43 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 14:15:47 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: en
+2026-04-26 14:15:56 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 14:15:57 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 14:15:59 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: en
+2026-04-26 14:16:01 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=9F242DF8F0D06AA771660401E0E362EB81602D009838B4970C24E77FB4F292EC&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=828a4f845f64497aa2bf44292d0ca4ec'
+2026-04-26 14:16:02 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 14:16:03 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: en
+2026-04-26 14:16:44 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: en
+2026-04-26 14:17:01 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 14:17:11 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 14:17:15 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: en
+2026-04-26 14:17:23 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 14:17:23 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 14:17:26 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: en
+2026-04-26 14:17:28 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=9F242DF8F0D06AA771660401E0E362EB81602D009838B4970C24E77FB4F292EC&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=f4c8a42ba3e44e708639a29109c484ac'
+2026-04-26 14:17:29 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 14:17:29 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: en
+2026-04-26 14:17:38 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: ar
+2026-04-26 14:17:40 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: ar
+2026-04-26 14:17:41 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→ar]
+2026-04-26 14:17:52 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: ar
+2026-04-26 14:17:53 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=9F242DF8F0D06AA771660401E0E362EB81602D009838B4970C24E77FB4F292EC&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=cc87475183584a5a86e0842a7064103d'
+2026-04-26 14:17:54 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 14:17:55 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: ar
+2026-04-26 14:18:08 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: ko
+2026-04-26 14:18:11 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: ko
+2026-04-26 14:18:12 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→ko]
+2026-04-26 14:18:16 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: ko
+2026-04-26 14:18:17 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=9F242DF8F0D06AA771660401E0E362EB81602D009838B4970C24E77FB4F292EC&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=68b3e01406ad494089191309e1280bcf'
+2026-04-26 14:18:18 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko]
+2026-04-26 14:18:18 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: ko
+2026-04-26 14:18:30 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: tr
+2026-04-26 14:18:37 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: tr
+2026-04-26 14:18:38 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→tr]
+2026-04-26 14:18:41 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: tr
+2026-04-26 14:18:43 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=9F242DF8F0D06AA771660401E0E362EB81602D009838B4970C24E77FB4F292EC&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=add1cd28692945ac9bd30d44e024869b'
+2026-04-26 14:18:43 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr]
+2026-04-26 14:18:44 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: tr
+2026-04-26 14:18:56 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: ar
+2026-04-26 14:19:03 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: ar
+2026-04-26 14:19:05 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→ar]
+2026-04-26 14:19:06 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: ar
+2026-04-26 14:19:09 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=9F242DF8F0D06AA771660401E0E362EB81602D009838B4970C24E77FB4F292EC&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=43b9b756916c4657a523dcdc45726408'
+2026-04-26 14:19:10 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 14:19:10 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: ar
+2026-04-26 14:19:22 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: ar
+2026-04-26 14:19:24 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→ar]
+2026-04-26 14:19:26 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: ar
+2026-04-26 14:19:29 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=9F242DF8F0D06AA771660401E0E362EB81602D009838B4970C24E77FB4F292EC&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=a65374af67594d449c76ca57c872e89e'
+2026-04-26 14:19:30 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 14:19:30 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: ar
+2026-04-26 14:22:47 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 14:22:50 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 14:22:55 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 14:22:58 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 14:23:00 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 14:23:04 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=57B87375B5A59AA6E151BE3485C0D88E60CBE0941313665D2CCDFD70CFA20675&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=16ce8d787f4348019ff3ace500711a0e'
+2026-04-26 14:23:07 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 14:23:08 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 14:23:19 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 14:23:23 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 14:23:25 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 14:23:29 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=57B87375B5A59AA6E151BE3485C0D88E60CBE0941313665D2CCDFD70CFA20675&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=a2b352bafc9249bcaf3c50a8cdd3afd8'
+2026-04-26 14:23:32 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 14:23:33 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 14:34:56 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 14:34:59 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 14:35:04 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 14:35:08 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=D18DB2F5BEB3E0B56D210A3FE947A4A42D6F7C692786408A71699B44FD5381E4&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=7def2e1a54134f1884c0e69f0ad57988'
+2026-04-26 14:35:10 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 14:35:10 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 14:39:04 - tarjimon_bot - INFO - User 7171330738: admin_access - opened admin panel
+2026-04-26 14:39:08 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_stats
+2026-04-26 14:39:08 - tarjimon_bot - INFO - Admin 7171330738 viewed stats: {'total_users': 2, 'active_users': 2, 'total_translations': 68, 'language_stats': {'ar': 1, 'en': 1}, 'today_translations': 49}
+2026-04-26 14:39:19 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_languages
+2026-04-26 14:39:19 - tarjimon_bot - INFO - Admin 7171330738 viewed language stats: {'ar': 1, 'en': 1}
+2026-04-26 14:39:22 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_today
+2026-04-26 14:39:22 - tarjimon_bot - INFO - Admin 7171330738 viewed today's translations: 49
+2026-04-26 14:39:26 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_stats
+2026-04-26 14:39:26 - tarjimon_bot - INFO - Admin 7171330738 viewed stats: {'total_users': 2, 'active_users': 2, 'total_translations': 68, 'language_stats': {'ar': 1, 'en': 1}, 'today_translations': 49}
+2026-04-26 14:39:29 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_total_translations
+2026-04-26 14:39:29 - tarjimon_bot - INFO - Admin 7171330738 viewed total translations: 68
+2026-04-26 14:39:32 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_back
+2026-04-26 14:39:34 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_back
+2026-04-26 14:39:36 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_back
+2026-04-26 14:51:30 - tarjimon_bot - ERROR - User 7171330738: Translation not found in cache: 454d57d3d93aef8dbf6b378db555d48c
+2026-04-26 14:51:35 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 14:51:40 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 14:51:40 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 14:51:42 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 14:51:46 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=5E218F30ED721DEE30DA6A644B9F98E9568D1D49A75492FF0CA4AD7C0BDF1832&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=24f27bfed9ae43c688035d3809590e61'
+2026-04-26 14:51:49 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 14:51:49 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 15:10:56 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-26 15:11:05 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ar
+2026-04-26 15:11:08 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 15:11:10 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 15:11:13 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=D35842C287DF7DC233BB8D685334E2DF00EB5610D8A0E1E032E836E0BA411E42&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=41f241c6138f496988b1c18704781517'
+2026-04-26 15:11:14 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 15:11:15 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-26 15:11:58 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-26 15:12:05 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ko
+2026-04-26 15:12:08 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-26 15:12:10 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-26 15:12:13 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=D35842C287DF7DC233BB8D685334E2DF00EB5610D8A0E1E032E836E0BA411E42&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=491aaee7e4674d6ba805368d609f8eaf'
+2026-04-26 15:12:15 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko]
+2026-04-26 15:12:15 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-26 15:25:48 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 15:25:48 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 15:25:48 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 15:25:48 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 15:26:00 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 15:26:01 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 15:26:01 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 15:26:01 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 15:26:44 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 15:26:50 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: en
+2026-04-26 15:26:54 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 15:26:56 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 15:26:59 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: en
+2026-04-26 15:27:03 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=293858BD0E19C9D7CD73310D545B7166B7C51DCD70E6001E16923353E0AFA53F&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=0eade52efceb49e7b029991fdfa79568'
+2026-04-26 15:27:04 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 15:27:04 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: en
+2026-04-26 15:28:32 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 15:28:36 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 15:28:43 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: en
+2026-04-26 15:28:46 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=293858BD0E19C9D7CD73310D545B7166B7C51DCD70E6001E16923353E0AFA53F&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=021638237b8d4de6902afdb5da2e63b1'
+2026-04-26 15:29:10 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 15:29:11 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: en
+2026-04-26 15:36:48 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-26 15:38:51 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 15:38:51 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 15:38:51 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 15:38:51 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 15:39:02 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 15:39:02 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 15:39:02 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 15:39:03 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 15:39:16 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 15:39:38 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 15:39:38 - tarjimon_bot - ERROR - User 8353627615: Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation
+2026-04-26 15:39:39 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 15:39:44 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: en
+2026-04-26 15:39:46 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=02622531289DA4976BDFC3DC58BA80F9111DE6787799CB63A76DD9F4FD03D333&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=ec0ee54f3c274b638e3cba391cb2cfb8'
+2026-04-26 15:40:03 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 15:40:04 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: en
+2026-04-26 15:43:10 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 15:43:10 - tarjimon_bot - ERROR - User 8353627615: Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation
+2026-04-26 15:43:14 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 15:43:21 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: en
+2026-04-26 15:43:24 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=9994FE9C9FBCA9A637E89F2A2309717E422BCB2E0BE50E6DF26215DCA245349B&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=95c2b8784706459489220a0d8d284023'
+2026-04-26 15:43:35 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 15:43:35 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: en
+2026-04-26 15:48:56 - tarjimon_bot - INFO - User 6689271226: start_command - rwdva0 | Oдина🤍
+2026-04-26 15:49:03 - tarjimon_bot - INFO - User 6689271226: language_selected - lang: tr
+2026-04-26 15:49:13 - tarjimon_bot - INFO - User 6689271226: translation_requested - lang: tr
+2026-04-26 15:49:13 - tarjimon_bot - ERROR - User 6689271226: Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation
+2026-04-26 15:49:15 - tarjimon_bot - INFO - Translation SUCCESS: User 6689271226 [uz→tr]
+2026-04-26 15:49:19 - tarjimon_bot - INFO - User 6689271226: voice_requested - lang: tr
+2026-04-26 15:49:21 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=35EF4FFF28E5DFF0B22EAADB9D859874FE6EEF557E5A4576CE00E8309C393381&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=3c960879a57f4311ade177a6d0b8dcf5'
+2026-04-26 15:49:22 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr]
+2026-04-26 15:49:22 - tarjimon_bot - INFO - User 6689271226: voice_sent - lang: tr
+2026-04-26 15:51:49 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 15:51:49 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 15:51:49 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 15:51:49 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 15:51:59 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 15:51:59 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 15:51:59 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 15:52:00 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 15:59:15 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 15:59:25 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 15:59:25 - tarjimon_bot - ERROR - User 8353627615: Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation
+2026-04-26 15:59:26 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 15:59:37 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 15:59:37 - tarjimon_bot - ERROR - User 8353627615: Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation
+2026-04-26 15:59:38 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 15:59:44 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: en
+2026-04-26 15:59:46 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=5232A5A689CD0EC8ECD9FE60F8481494BFDD874A547E52BCDDDBC58C14FBD386&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=4513af21e5734f4b9665e106955c8147'
+2026-04-26 15:59:54 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 15:59:55 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: en
+2026-04-26 16:00:22 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 16:00:22 - tarjimon_bot - ERROR - User 8353627615: Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation
+2026-04-26 16:00:23 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 16:14:09 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 16:14:09 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 16:14:09 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 16:14:09 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 16:19:06 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 16:19:06 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 16:19:06 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 16:19:07 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 16:20:08 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 16:20:15 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-26 16:20:29 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 16:20:29 - tarjimon_bot - ERROR - User 8353627615: Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation
+2026-04-26 16:20:30 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 16:20:36 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: en
+2026-04-26 16:20:38 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=EF5B7A96E7CFC17E89BEB00E023152B8C8F432D168672BD0C9F15E43FE6DB514&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=6b285753fbad4280bd7d7e792b27a796'
+2026-04-26 16:20:54 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 16:20:56 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: en
+2026-04-26 16:26:59 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 16:26:59 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 16:26:59 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 16:26:59 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 16:27:08 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 16:27:08 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 16:27:08 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 16:27:09 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 16:27:13 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 16:27:25 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: en
+2026-04-26 16:27:30 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 16:27:30 - tarjimon_bot - ERROR - User 8353627615: Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation
+2026-04-26 16:27:32 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 16:27:34 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: en
+2026-04-26 16:27:36 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=DFF0F071306A68F5617859EA20767F081501C79F0FB0D4A7B46D83A5208622E5&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=6868b6b2cb32417b8fa51baa4e93c929'
+2026-04-26 16:27:38 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 16:27:38 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: en
+2026-04-26 16:27:49 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 16:27:49 - tarjimon_bot - ERROR - User 8353627615: Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation
+2026-04-26 16:27:52 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 16:28:06 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 16:28:06 - tarjimon_bot - ERROR - User 8353627615: Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation
+2026-04-26 16:28:09 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 16:42:14 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 16:42:15 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 16:42:15 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 16:42:15 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 16:42:39 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 16:42:58 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 16:42:58 - tarjimon_bot - ERROR - User 8353627615: Language detection failed: you need to get an API_KEY for this to work. Get one for free here: https://detectlanguage.com/documentation
+2026-04-26 16:42:59 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 16:50:34 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 16:50:34 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 16:50:34 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 16:50:34 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 16:50:42 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 16:50:42 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 16:50:42 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 16:50:43 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 16:51:09 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 16:51:20 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 16:51:22 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [en→uz]
+2026-04-26 16:51:29 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: uz
+2026-04-26 16:51:31 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=0E50F8D3F28B5D1875C1626D4533F10E6886B7B1132083270B563193F0F193ED&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=87127a20f84540b984acfcdeddb21c06'
+2026-04-26 16:51:31 - tarjimon_bot - ERROR - gTTS fallback error: Language not supported: uz
+2026-04-26 16:51:31 - tarjimon_bot - ERROR - Voice generation failed: file not created or empty
+2026-04-26 16:51:31 - tarjimon_bot - ERROR - User 8353627615: Voice generation error: Voice file not generated
+2026-04-26 16:52:04 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 16:52:07 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [ja→uz]
+2026-04-26 16:52:23 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: uz
+2026-04-26 16:52:25 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=0E50F8D3F28B5D1875C1626D4533F10E6886B7B1132083270B563193F0F193ED&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=9b00e7179ea44202839e281201b72ed2'
+2026-04-26 16:52:25 - tarjimon_bot - ERROR - gTTS fallback error: Language not supported: uz
+2026-04-26 16:52:25 - tarjimon_bot - ERROR - Voice generation failed: file not created or empty
+2026-04-26 16:52:25 - tarjimon_bot - ERROR - User 8353627615: Voice generation error: Voice file not generated
+2026-04-26 17:01:15 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 17:01:19 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 17:01:22 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 17:01:24 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 17:01:25 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 17:01:27 - tarjimon_bot - ERROR - edge_tts error: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=1065C2BE3A592D115046606470A22359EE57815AA30BF71DA77B50E87F6E59EC&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=2bfcdb7407104e59b319f74e6d4cf418'
+2026-04-26 17:01:29 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 17:01:29 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 17:01:57 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 17:01:57 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 17:01:57 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 17:01:57 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 17:02:16 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 17:02:17 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 17:02:17 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 17:02:17 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 17:05:37 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 17:06:05 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 17:06:06 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [en→uz]
+2026-04-26 17:06:08 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: uz
+2026-04-26 17:06:10 - tarjimon_bot - ERROR - edge_tts error: edge-tts generation failed: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=AC521120634CEDF6CEF2B3F953FB73D0DDEE6DAC3BD4006F21179F8B9FE11AFB&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=aebe52b48f6d43a68b169826e79fee5d'
+2026-04-26 17:06:10 - tarjimon_bot - ERROR - gTTS not available for uz, cannot fallback
+2026-04-26 17:06:10 - tarjimon_bot - ERROR - Voice generation failed for uz: edge-tts generation failed: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=AC521120634CEDF6CEF2B3F953FB73D0DDEE6DAC3BD4006F21179F8B9FE11AFB&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=aebe52b48f6d43a68b169826e79fee5d'
+2026-04-26 17:06:10 - tarjimon_bot - ERROR - User 8353627615: Voice generation error: Voice file not generated
+2026-04-26 17:13:07 - tarjimon_bot - INFO - User 6689271226: translation_requested - lang: tr
+2026-04-26 17:13:09 - tarjimon_bot - INFO - Translation SUCCESS: User 6689271226 [tl→uz]
+2026-04-26 17:13:22 - tarjimon_bot - INFO - User 6689271226: language_selected - lang: tr
+2026-04-26 17:13:28 - tarjimon_bot - INFO - User 6689271226: translation_requested - lang: tr
+2026-04-26 17:13:28 - tarjimon_bot - INFO - Translation SUCCESS: User 6689271226 [tl→uz]
+2026-04-26 17:13:30 - tarjimon_bot - INFO - User 6689271226: voice_requested - lang: uz
+2026-04-26 17:13:33 - tarjimon_bot - ERROR - edge_tts error: edge-tts generation failed: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=E56F8B177948E7223FABCD0567F50FCA912C7B0EC286C8DE0538F1F804E0B3CE&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=5f9c7a17ce984ea0a4e7ab7fb937d7f1'
+2026-04-26 17:13:33 - tarjimon_bot - ERROR - gTTS not available for uz, cannot fallback
+2026-04-26 17:13:33 - tarjimon_bot - ERROR - Voice generation failed for uz: edge-tts generation failed: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=E56F8B177948E7223FABCD0567F50FCA912C7B0EC286C8DE0538F1F804E0B3CE&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=5f9c7a17ce984ea0a4e7ab7fb937d7f1'
+2026-04-26 17:13:33 - tarjimon_bot - ERROR - User 6689271226: Voice generation error: Voice file not generated
+2026-04-26 17:13:47 - tarjimon_bot - INFO - User 6689271226: voice_requested - lang: uz
+2026-04-26 17:13:50 - tarjimon_bot - ERROR - edge_tts error: edge-tts generation failed: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=E56F8B177948E7223FABCD0567F50FCA912C7B0EC286C8DE0538F1F804E0B3CE&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=78cfe7296cd04ac08d3f37cba7faaded'
+2026-04-26 17:13:50 - tarjimon_bot - ERROR - gTTS not available for uz, cannot fallback
+2026-04-26 17:13:50 - tarjimon_bot - ERROR - Voice generation failed for uz: edge-tts generation failed: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=E56F8B177948E7223FABCD0567F50FCA912C7B0EC286C8DE0538F1F804E0B3CE&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=78cfe7296cd04ac08d3f37cba7faaded'
+2026-04-26 17:13:50 - tarjimon_bot - ERROR - User 6689271226: Voice generation error: Voice file not generated
+2026-04-26 17:13:58 - tarjimon_bot - INFO - User 6689271226: translation_requested - lang: tr
+2026-04-26 17:14:01 - tarjimon_bot - INFO - Translation SUCCESS: User 6689271226 [et→uz]
+2026-04-26 17:14:03 - tarjimon_bot - INFO - User 6689271226: voice_requested - lang: uz
+2026-04-26 17:14:05 - tarjimon_bot - ERROR - edge_tts error: edge-tts generation failed: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=E56F8B177948E7223FABCD0567F50FCA912C7B0EC286C8DE0538F1F804E0B3CE&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=cb307f61643d4072b9d0c6b11f4b7538'
+2026-04-26 17:14:05 - tarjimon_bot - ERROR - gTTS not available for uz, cannot fallback
+2026-04-26 17:14:05 - tarjimon_bot - ERROR - Voice generation failed for uz: edge-tts generation failed: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=E56F8B177948E7223FABCD0567F50FCA912C7B0EC286C8DE0538F1F804E0B3CE&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=cb307f61643d4072b9d0c6b11f4b7538'
+2026-04-26 17:14:05 - tarjimon_bot - ERROR - User 6689271226: Voice generation error: Voice file not generated
+2026-04-26 17:48:10 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 17:48:10 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 17:48:10 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 17:48:10 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 17:48:18 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 17:48:19 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 17:48:19 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 17:48:19 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 17:48:55 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 17:48:58 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [en→uz]
+2026-04-26 17:49:02 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-26 17:49:02 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 17:49:02 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 17:49:04 - tarjimon_bot - ERROR - edge_tts error for uz: Voice service temporarily unavailable (403 Forbidden)
+2026-04-26 17:49:04 - tarjimon_bot - ERROR - Service unavailable error for uz: Voice service temporarily unavailable (403 Forbidden)
+2026-04-26 17:49:04 - tarjimon_bot - ERROR - Voice generation failed for uz: Hozircha ovozli xizmatda texnik uzilish bor. Keyinroq urinib ko'ring.
+2026-04-26 17:49:04 - tarjimon_bot - ERROR - User 7171330738: generate_voice returned None for uz
+2026-04-26 17:49:09 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-26 17:49:09 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 17:49:09 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 17:49:11 - tarjimon_bot - ERROR - edge_tts error for uz: Voice service temporarily unavailable (403 Forbidden)
+2026-04-26 17:49:11 - tarjimon_bot - ERROR - Service unavailable error for uz: Voice service temporarily unavailable (403 Forbidden)
+2026-04-26 17:49:11 - tarjimon_bot - ERROR - Voice generation failed for uz: Hozircha ovozli xizmatda texnik uzilish bor. Keyinroq urinib ko'ring.
+2026-04-26 17:49:11 - tarjimon_bot - ERROR - User 7171330738: generate_voice returned None for uz
+2026-04-26 19:55:03 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 19:55:03 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 19:55:03 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 19:55:03 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 19:55:14 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 19:55:14 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 19:55:14 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 19:55:15 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 19:55:51 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 19:56:06 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 19:56:07 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [en→uz]
+2026-04-26 19:56:11 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-26 19:56:11 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 19:56:11 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 19:56:12 - tarjimon_bot - ERROR - edge_tts error for uz: Voice service temporarily unavailable (403 Forbidden)
+2026-04-26 19:56:12 - tarjimon_bot - ERROR - Service unavailable error for uz: Voice service temporarily unavailable (403 Forbidden)
+2026-04-26 19:56:12 - tarjimon_bot - ERROR - Voice generation failed for uz: Hozircha ovozli xizmatda texnik uzilish bor. Keyinroq urinib ko'ring.
+2026-04-26 19:56:12 - tarjimon_bot - ERROR - User 7171330738: generate_voice returned None for uz
+2026-04-26 20:01:38 - tarjimon_bot - INFO - User 139756664: start_command - None | Жураев
+2026-04-26 20:01:53 - tarjimon_bot - INFO - User 139756664: language_selected - lang: en
+2026-04-26 20:02:04 - tarjimon_bot - INFO - User 139756664: translation_requested - lang: en
+2026-04-26 20:02:06 - tarjimon_bot - INFO - Translation SUCCESS: User 139756664 [ru→uz]
+2026-04-26 20:02:11 - tarjimon_bot - INFO - User 139756664: voice_requested - lang: uz
+2026-04-26 20:02:11 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 20:02:11 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 20:02:14 - tarjimon_bot - ERROR - edge_tts error for uz: Voice service temporarily unavailable (403 Forbidden)
+2026-04-26 20:02:14 - tarjimon_bot - ERROR - Service unavailable error for uz: Voice service temporarily unavailable (403 Forbidden)
+2026-04-26 20:02:14 - tarjimon_bot - ERROR - Voice generation failed for uz: Hozircha ovozli xizmatda texnik uzilish bor. Keyinroq urinib ko'ring.
+2026-04-26 20:02:14 - tarjimon_bot - ERROR - User 139756664: generate_voice returned None for uz
+2026-04-26 20:02:36 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 20:02:38 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 20:02:41 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 20:02:42 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 20:02:44 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 20:02:44 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 20:02:46 - tarjimon_bot - ERROR - edge_tts error for en: Voice service temporarily unavailable (403 Forbidden)
+2026-04-26 20:02:46 - tarjimon_bot - ERROR - Service unavailable error for en: Voice service temporarily unavailable (403 Forbidden)
+2026-04-26 20:02:46 - tarjimon_bot - ERROR - Voice generation failed for en: Hozircha ovozli xizmatda texnik uzilish bor. Keyinroq urinib ko'ring.
+2026-04-26 20:02:46 - tarjimon_bot - ERROR - User 7171330738: generate_voice returned None for en
+2026-04-26 20:02:49 - tarjimon_bot - INFO - User 139756664: language_selected - lang: ru
+2026-04-26 20:02:55 - tarjimon_bot - INFO - User 139756664: translation_requested - lang: ru
+2026-04-26 20:02:55 - tarjimon_bot - INFO - Translation SUCCESS: User 139756664 [ru→uz]
+2026-04-26 20:03:06 - tarjimon_bot - INFO - User 139756664: voice_requested - lang: uz
+2026-04-26 20:03:06 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 20:03:06 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 20:03:10 - tarjimon_bot - ERROR - edge_tts error for uz: Voice service temporarily unavailable (403 Forbidden)
+2026-04-26 20:03:10 - tarjimon_bot - ERROR - Service unavailable error for uz: Voice service temporarily unavailable (403 Forbidden)
+2026-04-26 20:03:10 - tarjimon_bot - ERROR - Voice generation failed for uz: Hozircha ovozli xizmatda texnik uzilish bor. Keyinroq urinib ko'ring.
+2026-04-26 20:03:10 - tarjimon_bot - ERROR - User 139756664: generate_voice returned None for uz
+2026-04-26 20:06:34 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 20:06:34 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 20:06:34 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 20:06:34 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 20:07:42 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 20:07:42 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 20:07:42 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 20:07:42 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 20:07:55 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 20:07:58 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 20:08:01 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 20:08:03 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 20:08:05 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 20:08:05 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 20:08:06 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 20:08:06 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 20:08:06 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 20:08:06 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 20:09:09 - tarjimon_bot - INFO - User 139756664: translation_requested - lang: ru
+2026-04-26 20:09:13 - tarjimon_bot - INFO - Translation SUCCESS: User 139756664 [ru→uz]
+2026-04-26 20:09:27 - tarjimon_bot - INFO - User 139756664: language_selected - lang: en
+2026-04-26 20:09:32 - tarjimon_bot - INFO - User 139756664: translation_requested - lang: en
+2026-04-26 20:09:32 - tarjimon_bot - INFO - Translation SUCCESS: User 139756664 [ru→uz]
+2026-04-26 20:09:35 - tarjimon_bot - INFO - User 139756664: voice_requested - lang: uz
+2026-04-26 20:09:35 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 20:09:35 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 20:09:36 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 20:09:36 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 20:09:36 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 20:09:37 - tarjimon_bot - INFO - User 139756664: voice_sent - lang: uz
+2026-04-26 20:09:51 - tarjimon_bot - INFO - User 139756664: start_command - None | Жураев
+2026-04-26 20:09:53 - tarjimon_bot - INFO - User 139756664: language_selected - lang: en
+2026-04-26 20:10:05 - tarjimon_bot - INFO - User 139756664: translation_requested - lang: en
+2026-04-26 20:10:05 - tarjimon_bot - INFO - Translation SUCCESS: User 139756664 [uz→en]
+2026-04-26 20:10:09 - tarjimon_bot - INFO - User 139756664: voice_requested - lang: en
+2026-04-26 20:10:09 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 20:10:10 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 20:10:10 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 20:10:10 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 20:10:10 - tarjimon_bot - INFO - User 139756664: voice_sent - lang: en
+2026-04-26 20:11:37 - tarjimon_bot - INFO - User 139756664: translation_requested - lang: en
+2026-04-26 20:11:41 - tarjimon_bot - INFO - Translation SUCCESS: User 139756664 [id→uz]
+2026-04-26 20:11:45 - tarjimon_bot - INFO - User 139756664: voice_requested - lang: uz
+2026-04-26 20:11:45 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 20:11:45 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 20:11:46 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 20:11:46 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 20:11:46 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 20:11:46 - tarjimon_bot - INFO - User 139756664: voice_sent - lang: uz
+2026-04-26 20:11:58 - tarjimon_bot - INFO - User 139756664: start_command - None | Жураев
+2026-04-26 20:12:00 - tarjimon_bot - INFO - User 139756664: language_selected - lang: en
+2026-04-26 20:12:09 - tarjimon_bot - INFO - User 139756664: translation_requested - lang: en
+2026-04-26 20:12:09 - tarjimon_bot - INFO - Translation SUCCESS: User 139756664 [id→uz]
+2026-04-26 20:12:11 - tarjimon_bot - INFO - User 139756664: voice_requested - lang: uz
+2026-04-26 20:12:11 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 20:12:11 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 20:12:12 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 20:12:12 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 20:12:12 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 20:12:13 - tarjimon_bot - INFO - User 139756664: voice_sent - lang: uz
+2026-04-26 20:12:25 - tarjimon_bot - INFO - User 139756664: start_command - None | Жураев
+2026-04-26 20:12:27 - tarjimon_bot - INFO - User 139756664: language_selected - lang: en
+2026-04-26 20:12:55 - tarjimon_bot - INFO - User 139756664: translation_requested - lang: en
+2026-04-26 20:12:55 - tarjimon_bot - INFO - Translation SUCCESS: User 139756664 [id→uz]
+2026-04-26 20:13:01 - tarjimon_bot - INFO - User 139756664: voice_requested - lang: uz
+2026-04-26 20:13:01 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 20:13:01 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 20:13:02 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 20:13:02 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 20:13:02 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 20:13:03 - tarjimon_bot - INFO - User 139756664: voice_sent - lang: uz
+2026-04-26 20:16:04 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 20:16:13 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 20:16:13 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 20:16:15 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 20:16:15 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 20:16:17 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 20:16:17 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 20:16:17 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 20:16:17 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 20:16:31 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 20:16:33 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [en→uz]
+2026-04-26 20:16:37 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-26 20:16:37 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 20:16:37 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 20:16:43 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 20:16:43 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 20:16:43 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 20:16:44 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: uz
+2026-04-26 20:17:44 - tarjimon_bot - INFO - User 139756664: language_selected - lang: en
+2026-04-26 20:17:49 - tarjimon_bot - INFO - User 139756664: translation_requested - lang: en
+2026-04-26 20:17:49 - tarjimon_bot - INFO - Translation SUCCESS: User 139756664 [uz→en]
+2026-04-26 20:17:51 - tarjimon_bot - INFO - User 139756664: voice_requested - lang: en
+2026-04-26 20:17:51 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 20:17:52 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 20:17:52 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 20:17:52 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 20:17:53 - tarjimon_bot - INFO - User 139756664: voice_sent - lang: en
+2026-04-26 20:18:04 - tarjimon_bot - ERROR - User 139756664: Translation not found in cache: 885071bfcc3bee5e5964197441b0be4c
+2026-04-26 20:18:26 - tarjimon_bot - INFO - User 139756664: translation_requested - lang: en
+2026-04-26 20:18:26 - tarjimon_bot - INFO - Translation SUCCESS: User 139756664 [id→uz]
+2026-04-26 20:18:30 - tarjimon_bot - INFO - User 139756664: voice_requested - lang: uz
+2026-04-26 20:18:30 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 20:18:30 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 20:18:32 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 20:18:32 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 20:18:32 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 20:18:32 - tarjimon_bot - INFO - User 139756664: voice_sent - lang: uz
+2026-04-26 20:18:49 - tarjimon_bot - INFO - User 139756664: translation_requested - lang: en
+2026-04-26 20:18:54 - tarjimon_bot - INFO - Translation SUCCESS: User 139756664 [tl→uz]
+2026-04-26 20:18:59 - tarjimon_bot - INFO - User 139756664: voice_requested - lang: uz
+2026-04-26 20:18:59 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 20:18:59 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 20:19:00 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 20:19:00 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 20:19:00 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 20:19:00 - tarjimon_bot - INFO - User 139756664: voice_sent - lang: uz
+2026-04-26 20:19:06 - tarjimon_bot - INFO - User 139756664: language_selected - lang: en
+2026-04-26 20:19:15 - tarjimon_bot - INFO - User 139756664: translation_requested - lang: en
+2026-04-26 20:19:15 - tarjimon_bot - INFO - Translation SUCCESS: User 139756664 [tl→uz]
+2026-04-26 20:23:49 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ru
+2026-04-26 20:24:04 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ru
+2026-04-26 20:24:04 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [id→uz]
+2026-04-26 20:24:08 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-26 20:24:08 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 20:24:08 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 20:24:09 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 20:24:09 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 20:24:09 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 20:24:09 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: uz
+2026-04-26 20:24:29 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 20:24:32 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [so→uz]
+2026-04-26 20:24:39 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: tr
+2026-04-26 20:24:42 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: en
+2026-04-26 20:24:44 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: tr
+2026-04-26 20:24:46 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→tr]
+2026-04-26 20:24:49 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: tr
+2026-04-26 20:24:49 - tarjimon_bot - ERROR - Attempting edge-tts generation for tr with voice: tr-TR-AhmetNeural
+2026-04-26 20:24:50 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr]
+2026-04-26 20:24:50 - tarjimon_bot - ERROR - edge-tts generation successful for tr
+2026-04-26 20:24:50 - tarjimon_bot - ERROR - Voice generation completed successfully for tr
+2026-04-26 20:24:51 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: tr
+2026-04-26 20:24:57 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 20:24:57 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [so→uz]
+2026-04-26 20:26:30 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 20:26:30 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 20:26:36 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: en
+2026-04-26 20:26:43 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 20:26:43 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [so→uz]
+2026-04-26 20:26:47 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: en
+2026-04-26 20:26:55 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: en
+2026-04-26 20:27:02 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 20:27:02 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [so→uz]
+2026-04-26 20:27:13 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: uz
+2026-04-26 20:27:13 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 20:27:13 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 20:27:15 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 20:27:15 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 20:27:15 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 20:27:15 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: uz
+2026-04-26 20:34:46 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 20:34:46 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 20:34:46 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 20:34:46 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 20:38:04 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 20:38:05 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 20:38:05 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 20:38:05 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 20:38:19 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 20:38:24 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 20:38:30 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en
+2026-04-26 20:38:31 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 20:38:36 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 20:38:36 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 20:38:37 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 20:38:37 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 20:38:37 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 20:38:37 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 20:38:43 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-26 20:38:47 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ko
+2026-04-26 20:38:48 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-26 20:38:50 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-26 20:38:50 - tarjimon_bot - ERROR - Attempting edge-tts generation for ko with voice: ko-KR-InJoonNeural
+2026-04-26 20:38:50 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko]
+2026-04-26 20:38:50 - tarjimon_bot - ERROR - edge-tts generation successful for ko
+2026-04-26 20:38:50 - tarjimon_bot - ERROR - Voice generation completed successfully for ko
+2026-04-26 20:38:51 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-26 20:38:59 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ko
+2026-04-26 20:39:00 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-26 20:39:03 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-26 20:39:03 - tarjimon_bot - ERROR - Attempting edge-tts generation for ko with voice: ko-KR-InJoonNeural
+2026-04-26 20:39:04 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko]
+2026-04-26 20:39:04 - tarjimon_bot - ERROR - edge-tts generation successful for ko
+2026-04-26 20:39:04 - tarjimon_bot - ERROR - Voice generation completed successfully for ko
+2026-04-26 20:39:04 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-26 20:39:22 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ko
+2026-04-26 20:39:24 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-26 20:39:37 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-26 20:39:39 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: en
+2026-04-26 20:39:48 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 20:39:50 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 20:39:53 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ru
+2026-04-26 20:39:53 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: en
+2026-04-26 20:39:53 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 20:39:55 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 20:39:55 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 20:39:55 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 20:39:56 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: en
+2026-04-26 20:39:58 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ru
+2026-04-26 20:39:59 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ru]
+2026-04-26 20:40:03 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ru
+2026-04-26 20:40:03 - tarjimon_bot - ERROR - Attempting edge-tts generation for ru with voice: ru-RU-DmitryNeural
+2026-04-26 20:40:18 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ru]
+2026-04-26 20:40:18 - tarjimon_bot - ERROR - edge-tts generation successful for ru
+2026-04-26 20:40:18 - tarjimon_bot - ERROR - Voice generation completed successfully for ru
+2026-04-26 20:40:21 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: tr
+2026-04-26 20:40:23 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ru
+2026-04-26 20:40:32 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: tr
+2026-04-26 20:40:34 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→tr]
+2026-04-26 20:40:36 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: tr
+2026-04-26 20:40:36 - tarjimon_bot - ERROR - Attempting edge-tts generation for tr with voice: tr-TR-AhmetNeural
+2026-04-26 20:40:37 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr]
+2026-04-26 20:40:37 - tarjimon_bot - ERROR - edge-tts generation successful for tr
+2026-04-26 20:40:37 - tarjimon_bot - ERROR - Voice generation completed successfully for tr
+2026-04-26 20:40:38 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: tr
+2026-04-26 20:40:55 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: ar
+2026-04-26 20:41:01 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: ar
+2026-04-26 20:41:02 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→ar]
+2026-04-26 20:41:03 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-26 20:41:05 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: ar
+2026-04-26 20:41:05 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 20:41:06 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 20:41:06 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 20:41:06 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 20:41:07 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: ar
+2026-04-26 20:41:21 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ko
+2026-04-26 20:41:21 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-26 20:41:23 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-26 20:41:23 - tarjimon_bot - ERROR - Attempting edge-tts generation for ko with voice: ko-KR-InJoonNeural
+2026-04-26 20:41:28 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko]
+2026-04-26 20:41:28 - tarjimon_bot - ERROR - edge-tts generation successful for ko
+2026-04-26 20:41:28 - tarjimon_bot - ERROR - Voice generation completed successfully for ko
+2026-04-26 20:41:29 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-26 20:41:31 - tarjimon_bot - ERROR - User 8353627615: Translation not found in cache: 4050a2af46c710530ea293616804643f
+2026-04-26 20:41:39 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: ru
+2026-04-26 20:41:46 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: ru
+2026-04-26 20:41:47 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→ru]
+2026-04-26 20:41:49 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: ru
+2026-04-26 20:41:49 - tarjimon_bot - ERROR - Attempting edge-tts generation for ru with voice: ru-RU-DmitryNeural
+2026-04-26 20:41:53 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ru]
+2026-04-26 20:41:53 - tarjimon_bot - ERROR - edge-tts generation successful for ru
+2026-04-26 20:41:53 - tarjimon_bot - ERROR - Voice generation completed successfully for ru
+2026-04-26 20:41:53 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: ru
+2026-04-26 20:42:35 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-26 20:42:41 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ar
+2026-04-26 20:42:43 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 20:42:45 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 20:42:45 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 20:42:52 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 20:42:52 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 20:42:52 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 20:42:53 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-26 20:42:54 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: ru
+2026-04-26 20:42:57 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→ru]
+2026-04-26 20:43:01 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: ru
+2026-04-26 20:43:01 - tarjimon_bot - ERROR - Attempting edge-tts generation for ru with voice: ru-RU-DmitryNeural
+2026-04-26 20:43:02 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ru]
+2026-04-26 20:43:02 - tarjimon_bot - ERROR - edge-tts generation successful for ru
+2026-04-26 20:43:02 - tarjimon_bot - ERROR - Voice generation completed successfully for ru
+2026-04-26 20:43:03 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: ru
+2026-04-26 20:43:28 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: ar
+2026-04-26 20:43:40 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: ar
+2026-04-26 20:43:42 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→ar]
+2026-04-26 20:43:45 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: ar
+2026-04-26 20:43:45 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 20:43:47 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 20:43:47 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 20:43:47 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 20:43:47 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: ar
+2026-04-26 20:44:01 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: tr
+2026-04-26 20:44:07 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: tr
+2026-04-26 20:44:08 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→tr]
+2026-04-26 20:44:11 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: tr
+2026-04-26 20:44:11 - tarjimon_bot - ERROR - Attempting edge-tts generation for tr with voice: tr-TR-AhmetNeural
+2026-04-26 20:44:12 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr]
+2026-04-26 20:44:12 - tarjimon_bot - ERROR - edge-tts generation successful for tr
+2026-04-26 20:44:12 - tarjimon_bot - ERROR - Voice generation completed successfully for tr
+2026-04-26 20:44:12 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: tr
+2026-04-26 20:44:55 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: en
+2026-04-26 20:45:03 - tarjimon_bot - INFO - User 8353627615: language_selected - lang: en
+2026-04-26 20:45:11 - tarjimon_bot - INFO - User 8353627615: translation_requested - lang: en
+2026-04-26 20:45:12 - tarjimon_bot - INFO - Translation SUCCESS: User 8353627615 [uz→en]
+2026-04-26 20:45:18 - tarjimon_bot - INFO - User 8353627615: voice_requested - lang: en
+2026-04-26 20:45:18 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 20:45:19 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 20:45:19 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 20:45:19 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 20:45:20 - tarjimon_bot - INFO - User 8353627615: voice_sent - lang: en
+2026-04-26 20:49:20 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 20:49:20 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 20:49:20 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 20:49:20 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 20:49:30 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 20:49:30 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 20:49:30 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 20:49:30 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 20:49:46 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 20:50:03 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 20:50:35 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: uz
+2026-04-26 20:50:36 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [fi→uz]
+2026-04-26 20:51:03 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-26 20:51:26 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ar
+2026-04-26 20:51:30 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 20:51:32 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 20:51:32 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 20:51:33 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 20:51:33 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 20:51:33 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 20:51:34 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-26 20:58:34 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 20:58:34 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 20:58:34 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 20:58:34 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 20:58:46 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 20:58:47 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 20:58:47 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 20:58:47 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 20:59:03 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 20:59:15 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 20:59:42 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 20:59:46 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 20:59:57 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: uz | source: fi
+2026-04-26 21:00:00 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [fi→uz]
+2026-04-26 21:00:48 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ru
+2026-04-26 21:00:57 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ru | source: uz
+2026-04-26 21:01:00 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ru]
+2026-04-26 21:01:03 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ru
+2026-04-26 21:01:03 - tarjimon_bot - ERROR - Attempting edge-tts generation for ru with voice: ru-RU-DmitryNeural
+2026-04-26 21:01:04 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ru]
+2026-04-26 21:01:04 - tarjimon_bot - ERROR - edge-tts generation successful for ru
+2026-04-26 21:01:04 - tarjimon_bot - ERROR - Voice generation completed successfully for ru
+2026-04-26 21:01:04 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ru
+2026-04-26 21:01:23 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ru | source: uz
+2026-04-26 21:01:27 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ru]
+2026-04-26 21:01:30 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ru
+2026-04-26 21:01:30 - tarjimon_bot - ERROR - Attempting edge-tts generation for ru with voice: ru-RU-DmitryNeural
+2026-04-26 21:01:32 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ru]
+2026-04-26 21:01:32 - tarjimon_bot - ERROR - edge-tts generation successful for ru
+2026-04-26 21:01:32 - tarjimon_bot - ERROR - Voice generation completed successfully for ru
+2026-04-26 21:01:32 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ru
+2026-04-26 21:01:44 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: tr
+2026-04-26 21:01:50 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: tr | source: uz
+2026-04-26 21:01:53 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→tr]
+2026-04-26 21:01:56 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: tr
+2026-04-26 21:01:57 - tarjimon_bot - ERROR - Attempting edge-tts generation for tr with voice: tr-TR-AhmetNeural
+2026-04-26 21:01:58 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr]
+2026-04-26 21:01:58 - tarjimon_bot - ERROR - edge-tts generation successful for tr
+2026-04-26 21:01:58 - tarjimon_bot - ERROR - Voice generation completed successfully for tr
+2026-04-26 21:01:59 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: tr
+2026-04-26 21:02:16 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-26 21:02:20 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ar | source: uz
+2026-04-26 21:02:23 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 21:02:26 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 21:02:26 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 21:02:27 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 21:02:27 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 21:02:27 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 21:02:28 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-26 21:02:37 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-26 21:02:42 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ko | source: uz
+2026-04-26 21:02:46 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-26 21:02:48 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-26 21:02:48 - tarjimon_bot - ERROR - Attempting edge-tts generation for ko with voice: ko-KR-InJoonNeural
+2026-04-26 21:02:49 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko]
+2026-04-26 21:02:49 - tarjimon_bot - ERROR - edge-tts generation successful for ko
+2026-04-26 21:02:49 - tarjimon_bot - ERROR - Voice generation completed successfully for ko
+2026-04-26 21:02:50 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-26 21:03:59 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 21:04:02 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 21:13:23 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 21:13:23 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 21:13:23 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 21:13:23 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 21:13:33 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 21:13:33 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 21:13:33 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 21:13:34 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 21:13:43 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 21:13:46 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 21:13:52 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: uz | uz_mode
+2026-04-26 21:13:52 - tarjimon_bot - ERROR - User 7171330738: Selected Uzbek while input is Uzbek: no translation needed
+2026-04-26 21:13:52 - tarjimon_bot - ERROR - User 7171330738: Translation returned None in Uzbek mode
+2026-04-26 21:14:04 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 21:14:07 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 21:14:11 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en | source: uz
+2026-04-26 21:14:12 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 21:14:17 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 21:14:17 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 21:14:18 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 21:14:18 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 21:14:18 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 21:14:18 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 21:14:40 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 21:14:44 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: uz | uz_mode
+2026-04-26 21:14:44 - tarjimon_bot - ERROR - User 7171330738: Selected Uzbek while input is Uzbek: no translation needed
+2026-04-26 21:14:44 - tarjimon_bot - ERROR - User 7171330738: Translation returned None in Uzbek mode
+2026-04-26 21:21:36 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 21:21:36 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 21:21:36 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 21:21:36 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 21:21:46 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 21:21:46 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 21:21:46 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 21:21:47 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 21:21:55 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 21:21:58 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 21:22:23 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 21:22:28 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 21:22:32 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en | source: uz
+2026-04-26 21:22:36 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 21:22:39 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 21:22:39 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 21:22:41 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 21:22:41 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 21:22:41 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 21:22:41 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 21:23:00 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en | source: uz
+2026-04-26 21:23:03 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 21:23:06 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 21:23:06 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 21:23:07 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 21:23:07 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 21:23:07 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 21:23:07 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 21:23:16 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-26 21:23:22 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ko | source: uz
+2026-04-26 21:23:25 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-26 21:23:27 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-26 21:23:27 - tarjimon_bot - ERROR - Attempting edge-tts generation for ko with voice: ko-KR-InJoonNeural
+2026-04-26 21:23:28 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko]
+2026-04-26 21:23:28 - tarjimon_bot - ERROR - edge-tts generation successful for ko
+2026-04-26 21:23:28 - tarjimon_bot - ERROR - Voice generation completed successfully for ko
+2026-04-26 21:23:28 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-26 21:23:54 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ru
+2026-04-26 21:24:02 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ru | source: uz
+2026-04-26 21:24:05 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ru]
+2026-04-26 21:24:07 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ru
+2026-04-26 21:24:07 - tarjimon_bot - ERROR - Attempting edge-tts generation for ru with voice: ru-RU-DmitryNeural
+2026-04-26 21:24:08 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ru]
+2026-04-26 21:24:08 - tarjimon_bot - ERROR - edge-tts generation successful for ru
+2026-04-26 21:24:08 - tarjimon_bot - ERROR - Voice generation completed successfully for ru
+2026-04-26 21:24:09 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ru
+2026-04-26 21:25:55 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 21:26:09 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: uz | uz_mode | source: bg
+2026-04-26 21:26:10 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [bg→uz]
+2026-04-26 21:26:13 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-26 21:26:13 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 21:26:13 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 21:26:14 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 21:26:14 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 21:26:14 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 21:26:15 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: uz
+2026-04-26 21:30:36 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 21:30:36 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 21:30:36 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 21:30:36 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 21:30:45 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 21:30:45 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 21:30:45 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 21:30:46 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 21:30:51 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 21:30:58 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 21:31:04 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: uz | uz_mode
+2026-04-26 21:31:04 - tarjimon_bot - ERROR - User 7171330738: Selected Uzbek while input is Uzbek: no translation needed
+2026-04-26 21:31:04 - tarjimon_bot - ERROR - User 7171330738: Translation returned None in Uzbek mode
+2026-04-26 21:32:41 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 21:32:44 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 21:32:48 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en | source: uz
+2026-04-26 21:32:51 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 21:32:55 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 21:32:55 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 21:32:56 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 21:32:56 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 21:32:56 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 21:32:56 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 21:39:32 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 21:39:32 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 21:39:32 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 21:39:32 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 21:39:44 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 21:39:45 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 21:39:45 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 21:39:45 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 21:39:50 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 21:39:52 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 21:40:01 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en | source: uz
+2026-04-26 21:40:03 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 21:40:14 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en | source: uz
+2026-04-26 21:40:16 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 21:40:20 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 21:40:20 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 21:40:21 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 21:40:21 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 21:40:21 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 21:40:21 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 21:41:48 - tarjimon_bot - INFO - User 5166606030: start_command - None | Sarvar️️✈️
+2026-04-26 21:41:53 - tarjimon_bot - INFO - User 5166606030: language_selected - lang: uz
+2026-04-26 21:46:40 - tarjimon_bot - INFO - User 7171330738: admin_access - opened admin panel
+2026-04-26 21:46:44 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_users
+2026-04-26 21:46:44 - tarjimon_bot - INFO - Admin 7171330738 viewed user count: 5
+2026-04-26 21:46:52 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_broadcast
+2026-04-26 21:46:58 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_stats
+2026-04-26 21:46:58 - tarjimon_bot - INFO - Admin 7171330738 viewed stats: {'total_users': 5, 'active_users': 5, 'total_translations': 147, 'language_stats': {'en': 3, 'tr': 1, 'uz': 1}, 'today_translations': 128}
+2026-04-26 21:47:20 - tarjimon_bot - INFO - User 7275504484: start_command - mirkoomil7 | Ахмаджанов.М
+2026-04-26 21:47:22 - tarjimon_bot - INFO - User 7275504484: language_selected - lang: uz
+2026-04-26 21:52:38 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 21:52:41 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-26 21:52:54 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ko | source: id
+2026-04-26 21:52:56 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [id→uz]
+2026-04-26 21:53:02 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-26 21:53:09 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ko | source: id
+2026-04-26 21:53:09 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [id→uz]
+2026-04-26 21:53:16 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 21:53:22 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en | source: id
+2026-04-26 21:53:22 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [id→uz]
+2026-04-26 21:54:06 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 21:54:09 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 21:54:37 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en | source: uz
+2026-04-26 21:54:37 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 21:54:53 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en | source: uz
+2026-04-26 21:54:56 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 21:55:03 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ru
+2026-04-26 21:55:12 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: ru | source: id
+2026-04-26 21:55:12 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [id→uz]
+2026-04-26 21:55:22 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 21:55:27 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en | source: id
+2026-04-26 21:55:27 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [id→uz]
+2026-04-26 21:55:32 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 21:55:42 - tarjimon_bot - INFO - User 7171330738: translation_requested - lang: en | source: tl
+2026-04-26 21:55:42 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [id→uz]
+2026-04-26 21:57:16 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-26 21:57:16 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 21:57:16 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 21:57:18 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 21:57:18 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 21:57:18 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 21:57:19 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: uz
+2026-04-26 21:59:47 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 21:59:47 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 21:59:47 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 21:59:47 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 22:04:22 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 22:04:22 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 22:04:22 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 22:04:23 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 22:04:34 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 22:04:48 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 22:05:15 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: uz
+2026-04-26 22:05:16 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: ja, target: uz
+2026-04-26 22:05:17 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [ja→uz]
+2026-04-26 22:05:25 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-26 22:05:25 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 22:05:25 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 22:05:28 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 22:05:28 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 22:05:28 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 22:05:30 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: uz
+2026-04-26 22:06:09 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: uz
+2026-04-26 22:06:09 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: uz
+2026-04-26 22:06:10 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→uz]
+2026-04-26 22:06:24 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ru
+2026-04-26 22:06:39 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ru
+2026-04-26 22:06:39 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ru
+2026-04-26 22:06:40 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ru]
+2026-04-26 22:06:42 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ru
+2026-04-26 22:06:42 - tarjimon_bot - ERROR - Attempting edge-tts generation for ru with voice: ru-RU-SvetlanaNeural
+2026-04-26 22:07:04 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ru]
+2026-04-26 22:07:04 - tarjimon_bot - ERROR - edge-tts generation successful for ru
+2026-04-26 22:07:04 - tarjimon_bot - ERROR - Voice generation completed successfully for ru
+2026-04-26 22:07:07 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ru
+2026-04-26 22:07:24 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-26 22:07:29 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ar
+2026-04-26 22:07:29 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ar
+2026-04-26 22:07:31 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 22:07:34 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 22:07:34 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 22:07:46 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 22:07:46 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 22:07:47 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 22:07:51 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-26 22:11:47 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 22:11:53 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: en
+2026-04-26 22:11:53 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: en
+2026-04-26 22:11:55 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 22:12:06 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: en
+2026-04-26 22:12:06 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: en
+2026-04-26 22:12:09 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 22:12:14 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 22:12:14 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 22:12:15 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 22:12:15 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 22:12:15 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 22:12:15 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 22:12:30 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-26 22:12:36 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ar
+2026-04-26 22:12:36 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ar
+2026-04-26 22:12:39 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 22:12:42 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 22:12:42 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 22:12:43 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 22:12:43 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 22:12:43 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 22:12:44 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-26 22:13:10 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ar
+2026-04-26 22:13:10 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ar
+2026-04-26 22:13:14 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 22:13:16 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 22:13:16 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 22:13:17 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 22:13:17 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 22:13:17 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 22:13:18 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-26 22:13:43 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ar
+2026-04-26 22:13:43 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ar
+2026-04-26 22:13:46 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 22:13:48 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 22:13:48 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 22:13:50 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 22:13:50 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 22:13:50 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 22:13:52 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-26 22:14:24 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ar
+2026-04-26 22:14:24 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ar
+2026-04-26 22:14:26 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 22:14:28 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 22:14:28 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 22:14:30 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 22:14:30 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 22:14:30 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 22:14:30 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-26 22:14:55 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ar
+2026-04-26 22:14:55 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ar
+2026-04-26 22:14:57 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 22:14:58 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 22:14:58 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 22:15:00 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 22:15:00 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 22:15:00 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 22:15:01 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-26 22:15:10 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 22:15:18 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: en
+2026-04-26 22:15:18 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: en
+2026-04-26 22:15:19 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 22:15:22 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 22:15:22 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 22:15:23 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 22:15:23 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 22:15:23 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 22:15:24 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 22:15:39 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 22:15:39 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 22:15:39 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 22:15:39 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 22:15:48 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 22:15:48 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 22:15:48 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 22:15:48 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 22:16:04 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 22:16:17 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 22:16:22 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: uz
+2026-04-26 22:16:22 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: uz
+2026-04-26 22:16:23 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→uz]
+2026-04-26 22:16:25 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-26 22:16:25 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 22:16:25 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 22:16:30 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 22:16:30 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 22:16:30 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 22:16:32 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: uz
+2026-04-26 22:16:42 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-26 22:16:47 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ko
+2026-04-26 22:16:47 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ko
+2026-04-26 22:16:49 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-26 22:16:51 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-26 22:16:51 - tarjimon_bot - ERROR - Attempting edge-tts generation for ko with voice: ko-KR-SunHiNeural
+2026-04-26 22:16:54 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko]
+2026-04-26 22:16:54 - tarjimon_bot - ERROR - edge-tts generation successful for ko
+2026-04-26 22:16:54 - tarjimon_bot - ERROR - Voice generation completed successfully for ko
+2026-04-26 22:16:56 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-26 22:27:11 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 22:27:16 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 22:27:18 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 22:28:07 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 22:28:11 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: uz
+2026-04-26 22:28:11 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: uz
+2026-04-26 22:28:14 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→uz]
+2026-04-26 22:28:19 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-26 22:28:19 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 22:28:19 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 22:28:20 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 22:28:20 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 22:28:20 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 22:28:22 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: uz
+2026-04-26 22:36:00 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-26 22:36:00 - tarjimon_bot - INFO - Bot session closed
+2026-04-26 22:36:00 - tarjimon_bot - INFO - Bot stopped
+2026-04-26 22:36:00 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-26 22:36:10 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-26 22:36:11 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-26 22:36:11 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-26 22:36:11 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-26 22:36:17 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 22:36:24 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 22:36:29 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: uz
+2026-04-26 22:36:29 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: uz
+2026-04-26 22:36:32 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→uz]
+2026-04-26 22:36:38 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-26 22:36:38 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-26 22:36:38 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-26 22:36:42 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-26 22:36:42 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-26 22:36:42 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-26 22:36:43 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: uz
+2026-04-26 22:37:13 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-26 22:37:43 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ar
+2026-04-26 22:37:44 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ar
+2026-04-26 22:37:48 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 22:37:50 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 22:37:50 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 22:37:52 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 22:37:52 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 22:37:52 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 22:37:52 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-26 22:51:45 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-26 22:51:57 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: en
+2026-04-26 22:51:57 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: en
+2026-04-26 22:52:00 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-26 22:52:04 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-26 22:52:04 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-26 22:52:05 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-26 22:52:05 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-26 22:52:05 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-26 22:52:06 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-26 22:52:22 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-26 22:52:32 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ko
+2026-04-26 22:52:32 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ko
+2026-04-26 22:52:36 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-26 22:52:38 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-26 22:52:38 - tarjimon_bot - ERROR - Attempting edge-tts generation for ko with voice: ko-KR-SunHiNeural
+2026-04-26 22:52:39 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko]
+2026-04-26 22:52:39 - tarjimon_bot - ERROR - edge-tts generation successful for ko
+2026-04-26 22:52:39 - tarjimon_bot - ERROR - Voice generation completed successfully for ko
+2026-04-26 22:52:40 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-26 22:53:06 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ko
+2026-04-26 22:53:06 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ko
+2026-04-26 22:53:11 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-26 22:53:13 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-26 22:53:13 - tarjimon_bot - ERROR - Attempting edge-tts generation for ko with voice: ko-KR-SunHiNeural
+2026-04-26 22:53:14 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko]
+2026-04-26 22:53:14 - tarjimon_bot - ERROR - edge-tts generation successful for ko
+2026-04-26 22:53:14 - tarjimon_bot - ERROR - Voice generation completed successfully for ko
+2026-04-26 22:53:15 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-26 23:00:27 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 23:00:33 - tarjimon_bot - INFO - User 7171330738: admin_access - opened admin panel
+2026-04-26 23:00:38 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_users
+2026-04-26 23:00:38 - tarjimon_bot - INFO - Admin 7171330738 viewed user count: 6
+2026-04-26 23:00:41 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_stats
+2026-04-26 23:00:41 - tarjimon_bot - INFO - Admin 7171330738 viewed stats: {'total_users': 6, 'active_users': 6, 'total_translations': 175, 'language_stats': {'en': 2, 'ko': 1, 'tr': 1, 'uz': 2}, 'today_translations': 156}
+2026-04-26 23:00:51 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_languages
+2026-04-26 23:00:51 - tarjimon_bot - INFO - Admin 7171330738 viewed language stats: {'en': 2, 'ko': 1, 'tr': 1, 'uz': 2}
+2026-04-26 23:01:00 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_broadcast
+2026-04-26 23:01:16 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_back
+2026-04-26 23:01:19 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_back
+2026-04-26 23:01:23 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 23:01:26 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-26 23:01:35 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ru
+2026-04-26 23:01:55 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ru
+2026-04-26 23:01:55 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ru
+2026-04-26 23:02:01 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ru]
+2026-04-26 23:02:03 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ru
+2026-04-26 23:02:03 - tarjimon_bot - ERROR - Attempting edge-tts generation for ru with voice: ru-RU-SvetlanaNeural
+2026-04-26 23:02:05 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ru]
+2026-04-26 23:02:05 - tarjimon_bot - ERROR - edge-tts generation successful for ru
+2026-04-26 23:02:05 - tarjimon_bot - ERROR - Voice generation completed successfully for ru
+2026-04-26 23:02:06 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ru
+2026-04-26 23:02:30 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ru
+2026-04-26 23:02:30 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ru
+2026-04-26 23:02:35 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ru]
+2026-04-26 23:02:55 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ru
+2026-04-26 23:02:55 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ru
+2026-04-26 23:02:58 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ru]
+2026-04-26 23:03:14 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ru
+2026-04-26 23:03:14 - tarjimon_bot - ERROR - Attempting edge-tts generation for ru with voice: ru-RU-SvetlanaNeural
+2026-04-26 23:03:16 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ru]
+2026-04-26 23:03:16 - tarjimon_bot - ERROR - edge-tts generation successful for ru
+2026-04-26 23:03:16 - tarjimon_bot - ERROR - Voice generation completed successfully for ru
+2026-04-26 23:03:16 - tarjimon_bot - ERROR - User 7171330738: Failed to send voice message: HTTP Client says - ClientOSError: [Errno 13] Can not write request body for https://api.telegram.org/bot8616620709:AAHiEZgNnP_CJLEfu-stlIvaq-IlLAyYRCU/sendVoice
+2026-04-26 23:03:24 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ru
+2026-04-26 23:03:24 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ru] (CACHED)
+2026-04-26 23:03:25 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ru
+2026-04-26 23:03:36 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-26 23:04:06 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ar
+2026-04-26 23:04:06 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ar
+2026-04-26 23:04:10 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 23:04:13 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 23:04:13 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 23:04:15 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 23:04:15 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 23:04:15 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 23:04:15 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-26 23:04:30 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: tr
+2026-04-26 23:04:44 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: tr
+2026-04-26 23:04:44 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: tr
+2026-04-26 23:04:47 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→tr]
+2026-04-26 23:04:50 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: tr
+2026-04-26 23:04:50 - tarjimon_bot - ERROR - Attempting edge-tts generation for tr with voice: tr-TR-AhmetNeural
+2026-04-26 23:04:51 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr]
+2026-04-26 23:04:51 - tarjimon_bot - ERROR - edge-tts generation successful for tr
+2026-04-26 23:04:51 - tarjimon_bot - ERROR - Voice generation completed successfully for tr
+2026-04-26 23:04:52 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: tr
+2026-04-26 23:05:11 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-26 23:05:32 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ko
+2026-04-26 23:05:32 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ko
+2026-04-26 23:05:37 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-26 23:05:41 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-26 23:05:41 - tarjimon_bot - ERROR - Attempting edge-tts generation for ko with voice: ko-KR-SunHiNeural
+2026-04-26 23:05:42 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko]
+2026-04-26 23:05:42 - tarjimon_bot - ERROR - edge-tts generation successful for ko
+2026-04-26 23:05:42 - tarjimon_bot - ERROR - Voice generation completed successfully for ko
+2026-04-26 23:05:42 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-26 23:07:56 - tarjimon_bot - INFO - User 6324713367: start_command - None | Jamshid
+2026-04-26 23:08:10 - tarjimon_bot - INFO - User 6324713367: language_selected - lang: uz
+2026-04-26 23:11:07 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-26 23:11:14 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-26 23:11:52 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ar
+2026-04-26 23:11:52 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ar
+2026-04-26 23:11:56 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-26 23:12:04 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-26 23:12:04 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-26 23:12:05 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-26 23:12:05 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-26 23:12:05 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-26 23:12:06 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-26 23:35:46 - tarjimon_bot - INFO - User 6689271226: translation_requested - target_lang: tr
+2026-04-26 23:35:46 - tarjimon_bot - INFO - User 6689271226: language_detected - detected: so, target: tr
+2026-04-26 23:35:49 - tarjimon_bot - INFO - Translation SUCCESS: User 6689271226 [so→tr]
+2026-04-26 23:35:52 - tarjimon_bot - INFO - User 6689271226: voice_requested - lang: tr
+2026-04-26 23:35:52 - tarjimon_bot - ERROR - Attempting edge-tts generation for tr with voice: tr-TR-AhmetNeural
+2026-04-26 23:35:53 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr]
+2026-04-26 23:35:53 - tarjimon_bot - ERROR - edge-tts generation successful for tr
+2026-04-26 23:35:53 - tarjimon_bot - ERROR - Voice generation completed successfully for tr
+2026-04-26 23:35:54 - tarjimon_bot - INFO - User 6689271226: voice_sent - lang: tr
+2026-04-27 00:07:06 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-27 00:07:06 - tarjimon_bot - INFO - Bot session closed
+2026-04-27 00:07:06 - tarjimon_bot - INFO - Bot stopped
+2026-04-27 00:07:07 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-27 01:21:26 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-27 01:21:27 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-27 01:21:27 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-27 01:21:27 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-27 01:21:38 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-27 01:21:42 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: tr
+2026-04-27 01:21:47 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: tr
+2026-04-27 01:21:48 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: so, target: tr
+2026-04-27 01:21:50 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [so→tr]
+2026-04-27 01:21:53 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: tr
+2026-04-27 01:21:53 - tarjimon_bot - ERROR - Attempting edge-tts generation for tr with voice: tr-TR-AhmetNeural
+2026-04-27 01:21:54 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr]
+2026-04-27 01:21:54 - tarjimon_bot - ERROR - edge-tts generation successful for tr
+2026-04-27 01:21:54 - tarjimon_bot - ERROR - Voice generation completed successfully for tr
+2026-04-27 01:21:54 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: tr
+2026-04-27 01:22:46 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-27 01:22:49 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: tr
+2026-04-27 01:22:56 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: tr
+2026-04-27 01:22:56 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: so, target: tr
+2026-04-27 01:22:58 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [so→tr]
+2026-04-27 01:23:00 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: tr
+2026-04-27 01:23:00 - tarjimon_bot - ERROR - Attempting edge-tts generation for tr with voice: tr-TR-AhmetNeural
+2026-04-27 01:23:01 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr]
+2026-04-27 01:23:01 - tarjimon_bot - ERROR - edge-tts generation successful for tr
+2026-04-27 01:23:01 - tarjimon_bot - ERROR - Voice generation completed successfully for tr
+2026-04-27 01:23:01 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: tr
+2026-04-27 12:20:08 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-27 12:20:08 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-27 12:20:08 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-27 12:20:09 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-27 12:20:11 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-27 12:20:16 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-27 12:21:14 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: en
+2026-04-27 12:21:14 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: en
+2026-04-27 12:21:17 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-27 12:21:19 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-27 12:21:19 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-27 12:21:20 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en]
+2026-04-27 12:21:20 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-27 12:21:20 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-27 12:21:20 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-27 12:29:22 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ru
+2026-04-27 12:29:26 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ru
+2026-04-27 12:29:26 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ru
+2026-04-27 12:29:30 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ru]
+2026-04-27 12:29:34 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ru
+2026-04-27 12:29:34 - tarjimon_bot - ERROR - Attempting edge-tts generation for ru with voice: ru-RU-SvetlanaNeural
+2026-04-27 12:29:36 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ru]
+2026-04-27 12:29:36 - tarjimon_bot - ERROR - edge-tts generation successful for ru
+2026-04-27 12:29:36 - tarjimon_bot - ERROR - Voice generation completed successfully for ru
+2026-04-27 12:29:36 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ru
+2026-04-27 12:29:54 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-27 12:30:04 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: uz
+2026-04-27 12:30:05 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: ru, target: uz
+2026-04-27 12:30:09 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [ru→uz]
+2026-04-27 12:30:12 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-27 12:30:12 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-27 12:30:12 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-27 12:30:13 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz]
+2026-04-27 12:30:13 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-27 12:30:13 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-27 12:30:13 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: uz
+2026-04-27 12:30:29 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-27 12:30:35 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ko
+2026-04-27 12:30:35 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ko
+2026-04-27 12:30:37 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-27 12:30:39 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-27 12:30:39 - tarjimon_bot - ERROR - Attempting edge-tts generation for ko with voice: ko-KR-SunHiNeural
+2026-04-27 12:30:41 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko]
+2026-04-27 12:30:41 - tarjimon_bot - ERROR - edge-tts generation successful for ko
+2026-04-27 12:30:41 - tarjimon_bot - ERROR - Voice generation completed successfully for ko
+2026-04-27 12:30:41 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-27 12:30:53 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-27 12:30:56 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ar
+2026-04-27 12:30:56 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ar
+2026-04-27 12:30:58 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-27 12:31:04 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-27 12:31:04 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-27 12:31:05 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-27 12:31:05 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-27 12:31:05 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-27 12:31:05 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-27 12:31:15 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: tr
+2026-04-27 12:31:18 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: tr
+2026-04-27 12:31:18 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: tr
+2026-04-27 12:31:21 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→tr]
+2026-04-27 12:31:23 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: tr
+2026-04-27 12:31:23 - tarjimon_bot - ERROR - Attempting edge-tts generation for tr with voice: tr-TR-AhmetNeural
+2026-04-27 12:31:25 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr]
+2026-04-27 12:31:25 - tarjimon_bot - ERROR - edge-tts generation successful for tr
+2026-04-27 12:31:25 - tarjimon_bot - ERROR - Voice generation completed successfully for tr
+2026-04-27 12:31:25 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: tr
+2026-04-27 12:57:20 - tarjimon_bot - INFO - User 1976721185: start_command - madina_17_1 | OISHABIBI😘😘😘AND UMARJON🥰🥰🥰
+2026-04-27 12:57:24 - tarjimon_bot - INFO - User 1976721185: language_selected - lang: uz
+2026-04-27 12:57:35 - tarjimon_bot - INFO - User 1976721185: start_command - madina_17_1 | OISHABIBI😘😘😘AND UMARJON🥰🥰🥰
+2026-04-27 13:00:15 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-27 13:00:36 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ko
+2026-04-27 13:00:36 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ko
+2026-04-27 13:00:39 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-27 13:00:41 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-27 13:00:41 - tarjimon_bot - ERROR - Attempting edge-tts generation for ko with voice: ko-KR-SunHiNeural
+2026-04-27 13:00:42 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko]
+2026-04-27 13:00:42 - tarjimon_bot - ERROR - edge-tts generation successful for ko
+2026-04-27 13:00:42 - tarjimon_bot - ERROR - Voice generation completed successfully for ko
+2026-04-27 13:00:42 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-27 13:02:02 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ko
+2026-04-27 13:02:02 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ko
+2026-04-27 13:02:03 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-27 13:02:07 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-27 13:02:11 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ar
+2026-04-27 13:02:11 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ar
+2026-04-27 13:02:13 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-27 13:02:16 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-27 13:02:16 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-27 13:02:18 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar]
+2026-04-27 13:02:18 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-27 13:02:18 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-27 13:02:18 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-27 13:05:01 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: tr
+2026-04-27 13:05:11 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: tr
+2026-04-27 13:05:11 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: id, target: tr
+2026-04-27 13:05:13 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [id→tr]
+2026-04-27 13:05:15 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: tr
+2026-04-27 13:05:15 - tarjimon_bot - ERROR - Attempting edge-tts generation for tr with voice: tr-TR-AhmetNeural
+2026-04-27 13:05:16 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr]
+2026-04-27 13:05:16 - tarjimon_bot - ERROR - edge-tts generation successful for tr
+2026-04-27 13:05:16 - tarjimon_bot - ERROR - Voice generation completed successfully for tr
+2026-04-27 13:05:16 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: tr
+2026-04-27 13:46:15 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-27 13:48:10 - tarjimon_bot - INFO - User 8353627615: start_command - None | Хилола
+2026-04-27 13:48:18 - tarjimon_bot - INFO - User 8353627615: check_subscription_clicked
+2026-04-27 13:50:02 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-27 13:50:02 - tarjimon_bot - INFO - Bot session closed
+2026-04-27 13:50:02 - tarjimon_bot - INFO - Bot stopped
+2026-04-27 13:50:02 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-27 13:50:13 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-27 13:50:14 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-27 13:50:14 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-27 13:50:14 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-27 13:50:38 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-27 13:50:43 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-27 13:50:58 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: uz
+2026-04-27 13:50:58 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: ru, target: uz
+2026-04-27 13:51:00 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [ru→uz]
+2026-04-27 13:51:04 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-27 13:51:04 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-27 13:51:04 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-27 13:51:05 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz] in 1.13s
+2026-04-27 13:51:05 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-27 13:51:05 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-27 13:51:05 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: uz
+2026-04-27 13:53:58 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-27 13:53:58 - tarjimon_bot - INFO - Bot session closed
+2026-04-27 13:53:58 - tarjimon_bot - INFO - Bot stopped
+2026-04-27 13:53:58 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-27 15:47:58 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-27 15:47:58 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-27 15:47:58 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-27 15:47:59 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-27 15:48:06 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-27 15:48:15 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-27 15:48:32 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: uz
+2026-04-27 15:48:32 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: uz
+2026-04-27 15:48:33 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→uz]
+2026-04-27 15:48:36 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-27 15:48:36 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-27 15:48:36 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-27 15:48:38 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz] in 1.49s
+2026-04-27 15:48:38 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-27 15:48:38 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-27 15:48:39 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: uz
+2026-04-27 15:48:58 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-27 15:49:06 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ko
+2026-04-27 15:49:06 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ko
+2026-04-27 15:49:07 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-27 15:49:10 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-27 15:49:10 - tarjimon_bot - ERROR - Attempting edge-tts generation for ko with voice: ko-KR-SunHiNeural
+2026-04-27 15:49:12 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko] in 1.25s
+2026-04-27 15:49:12 - tarjimon_bot - ERROR - edge-tts generation successful for ko
+2026-04-27 15:49:12 - tarjimon_bot - ERROR - Voice generation completed successfully for ko
+2026-04-27 15:49:13 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-27 15:49:37 - tarjimon_bot - ERROR - User 7171330738: Translation not found in cache: 2c1d01775ab9f2b248ff41b4e723d56a
+2026-04-27 15:49:42 - tarjimon_bot - ERROR - User 7171330738: Translation not found in cache: 2c1d01775ab9f2b248ff41b4e723d56a
+2026-04-27 15:49:46 - tarjimon_bot - ERROR - User 7171330738: Translation not found in cache: 2c1d01775ab9f2b248ff41b4e723d56a
+2026-04-27 15:49:52 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: tr
+2026-04-27 15:49:56 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: tr
+2026-04-27 15:49:56 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: tr
+2026-04-27 15:49:58 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→tr]
+2026-04-27 15:50:00 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: tr
+2026-04-27 15:50:00 - tarjimon_bot - ERROR - Attempting edge-tts generation for tr with voice: tr-TR-AhmetNeural
+2026-04-27 15:50:05 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr] in 4.60s
+2026-04-27 15:50:05 - tarjimon_bot - ERROR - edge-tts generation successful for tr
+2026-04-27 15:50:05 - tarjimon_bot - ERROR - Voice generation completed successfully for tr
+2026-04-27 15:50:06 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: tr
+2026-04-27 15:50:18 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-27 15:50:22 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ar
+2026-04-27 15:50:22 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ar
+2026-04-27 15:50:23 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-27 15:50:25 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-27 15:50:25 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-27 15:50:27 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar] in 1.46s
+2026-04-27 15:50:27 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-27 15:50:27 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-27 15:50:28 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-27 19:02:37 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-27 19:02:38 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-27 19:02:38 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-27 19:02:38 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-27 19:03:00 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-27 19:03:06 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-27 19:03:11 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-27 19:03:13 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ar
+2026-04-27 19:03:20 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ar
+2026-04-27 19:03:20 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ar
+2026-04-27 19:03:23 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ar]
+2026-04-27 19:03:25 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ar
+2026-04-27 19:03:25 - tarjimon_bot - ERROR - Attempting edge-tts generation for ar with voice: ar-SA-HamedNeural
+2026-04-27 19:03:27 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ar] in 1.84s
+2026-04-27 19:03:27 - tarjimon_bot - ERROR - edge-tts generation successful for ar
+2026-04-27 19:03:27 - tarjimon_bot - ERROR - Voice generation completed successfully for ar
+2026-04-27 19:03:28 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ar
+2026-04-27 19:03:45 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ru
+2026-04-27 19:03:47 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ru
+2026-04-27 19:03:47 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ru
+2026-04-27 19:03:49 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ru]
+2026-04-27 19:03:51 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ru
+2026-04-27 19:03:51 - tarjimon_bot - ERROR - Attempting edge-tts generation for ru with voice: ru-RU-SvetlanaNeural
+2026-04-27 19:03:53 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ru] in 1.47s
+2026-04-27 19:03:53 - tarjimon_bot - ERROR - edge-tts generation successful for ru
+2026-04-27 19:03:53 - tarjimon_bot - ERROR - Voice generation completed successfully for ru
+2026-04-27 19:03:54 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ru
+2026-04-27 19:04:06 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: en
+2026-04-27 19:04:11 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: en
+2026-04-27 19:04:11 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: en
+2026-04-27 19:04:12 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→en]
+2026-04-27 19:04:14 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: en
+2026-04-27 19:04:14 - tarjimon_bot - ERROR - Attempting edge-tts generation for en with voice: en-US-GuyNeural
+2026-04-27 19:04:17 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [en] in 2.67s
+2026-04-27 19:04:17 - tarjimon_bot - ERROR - edge-tts generation successful for en
+2026-04-27 19:04:17 - tarjimon_bot - ERROR - Voice generation completed successfully for en
+2026-04-27 19:04:18 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: en
+2026-04-27 19:04:27 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: tr
+2026-04-27 19:04:30 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: tr
+2026-04-27 19:04:30 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: tr
+2026-04-27 19:04:31 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→tr]
+2026-04-27 19:04:33 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: tr
+2026-04-27 19:04:33 - tarjimon_bot - ERROR - Attempting edge-tts generation for tr with voice: tr-TR-AhmetNeural
+2026-04-27 19:04:35 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [tr] in 1.34s
+2026-04-27 19:04:35 - tarjimon_bot - ERROR - edge-tts generation successful for tr
+2026-04-27 19:04:35 - tarjimon_bot - ERROR - Voice generation completed successfully for tr
+2026-04-27 19:04:36 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: tr
+2026-04-27 19:04:46 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: ko
+2026-04-27 19:04:49 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: ko
+2026-04-27 19:04:49 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: ko
+2026-04-27 19:04:50 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→ko]
+2026-04-27 19:04:52 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: ko
+2026-04-27 19:04:52 - tarjimon_bot - ERROR - Attempting edge-tts generation for ko with voice: ko-KR-SunHiNeural
+2026-04-27 19:04:54 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [ko] in 1.23s
+2026-04-27 19:04:54 - tarjimon_bot - ERROR - edge-tts generation successful for ko
+2026-04-27 19:04:54 - tarjimon_bot - ERROR - Voice generation completed successfully for ko
+2026-04-27 19:04:54 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: ko
+2026-04-27 19:05:01 - tarjimon_bot - INFO - User 7171330738: language_selected - lang: uz
+2026-04-27 19:05:04 - tarjimon_bot - INFO - User 7171330738: translation_requested - target_lang: uz
+2026-04-27 19:05:04 - tarjimon_bot - INFO - User 7171330738: language_detected - detected: uz, target: uz
+2026-04-27 19:05:06 - tarjimon_bot - INFO - Translation SUCCESS: User 7171330738 [uz→uz]
+2026-04-27 19:05:09 - tarjimon_bot - INFO - User 7171330738: voice_requested - lang: uz
+2026-04-27 19:05:09 - tarjimon_bot - ERROR - Using Uzbek voice: uz-UZ-MadinaNeural
+2026-04-27 19:05:09 - tarjimon_bot - ERROR - Attempting edge-tts generation for uz with voice: uz-UZ-MadinaNeural
+2026-04-27 19:05:10 - tarjimon_bot - INFO - Voice SUCCESS: User 0 [uz] in 1.26s
+2026-04-27 19:05:10 - tarjimon_bot - ERROR - edge-tts generation successful for uz
+2026-04-27 19:05:10 - tarjimon_bot - ERROR - Voice generation completed successfully for uz
+2026-04-27 19:05:10 - tarjimon_bot - INFO - User 7171330738: voice_sent - lang: uz
+2026-04-27 19:05:23 - tarjimon_bot - INFO - User 7171330738: admin_access - opened admin panel
+2026-04-27 19:05:27 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_stats
+2026-04-27 19:05:27 - tarjimon_bot - ERROR - User 7171330738: Error getting stats: name 'conn' is not defined
+2026-04-27 19:05:32 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_users
+2026-04-27 19:05:32 - tarjimon_bot - INFO - Admin 7171330738 viewed user count: 8
+2026-04-27 19:05:34 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_broadcast
+2026-04-27 19:05:37 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_today
+2026-04-27 19:05:37 - tarjimon_bot - INFO - Admin 7171330738 viewed today's translations: 23
+2026-04-27 19:05:39 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_total_translations
+2026-04-27 19:05:39 - tarjimon_bot - ERROR - User 7171330738: Error getting total translations: name 'conn' is not defined
+2026-04-27 19:05:41 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_languages
+2026-04-27 19:05:41 - tarjimon_bot - INFO - Admin 7171330738 viewed language stats: {'en': 2, 'tr': 1, 'uz': 5}
+2026-04-27 19:05:50 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_back
+2026-04-27 19:05:52 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_stats
+2026-04-27 19:05:52 - tarjimon_bot - ERROR - User 7171330738: Error getting stats: name 'conn' is not defined
+2026-04-27 19:05:55 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_back
+2026-04-27 19:05:57 - tarjimon_bot - INFO - User 7171330738: admin_action - action: admin_back
+2026-04-27 19:06:00 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-28 04:24:57 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-28 08:55:30 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-28 08:55:30 - tarjimon_bot - INFO - Bot session closed
+2026-04-28 08:55:30 - tarjimon_bot - INFO - Bot stopped
+2026-04-28 08:55:30 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-28 08:55:44 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-28 08:55:44 - tarjimon_bot - INFO - Bot initialized with all handlers
+2026-04-28 08:55:44 - tarjimon_bot - INFO - Deleting any existing webhooks...
+2026-04-28 08:55:44 - tarjimon_bot - INFO - Webhook deleted, starting polling mode...
+2026-04-28 08:55:53 - tarjimon_bot - INFO - User 7171330738: start_command - asomiddinmeliboyev | Meliboyev
+2026-04-28 09:02:37 - tarjimon_bot - INFO - Shutting down bot...
+2026-04-28 09:02:37 - tarjimon_bot - INFO - Bot session closed
+2026-04-28 09:02:37 - tarjimon_bot - INFO - Bot stopped
+2026-04-28 09:02:37 - tarjimon_bot - INFO - Bot stopped by user (KeyboardInterrupt)
+2026-04-28 10:23:55 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-28 10:23:55 - tarjimon_bot - ERROR - WEBHOOK_HOST not configured! Please set WEBHOOK_HOST in environment variables.
+2026-04-28 14:06:35 - tarjimon_bot - INFO - Database initialized successfully
+2026-04-28 14:06:35 - tarjimon_bot - ERROR - WEBHOOK_HOST not configured! Please set WEBHOOK_HOST in environment variables.
